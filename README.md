@@ -8,4 +8,4 @@ Here you will find demos that show the process on how to make Chroma key in the 
 
 * Repo Chroma Key: https://github.com/evaferreira/chroma-code
 
-* Slides: 
+* Slides: https://speakerdeck.com/evaferreira/take-on-me-nationjs
